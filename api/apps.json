@@ -1,1 +1,23 @@
 
+[
+  {
+    "id": "simplecounter1",
+    "name": "Simple Counter",
+    "description": "Une app simple pour compter",
+    "author": "Alexis",
+    "icon": "MySimpleCounterApp/icon.png",
+    "path": "MySimpleCounterApp",
+    "wgtUrl": "MySimpleCounterApp/app.wgt",
+    "githubUrl": "https://github.com/TON_USER/tizen-altstore-repo/tree/main/MySimpleCounterApp"
+  },
+  {
+    "id": "anotherapp",
+    "name": "Another App",
+    "description": "Une autre app",
+    "author": "Alexis",
+    "icon": "AnotherApp/icon.png",
+    "path": "AnotherApp",
+    "wgtUrl": "AnotherApp/app.wgt",
+    "githubUrl": "https://github.com/TON_USER/tizen-altstore-repo/tree/main/AnotherApp"
+  }
+]
