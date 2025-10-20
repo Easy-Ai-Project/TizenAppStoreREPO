@@ -9,15 +9,5 @@
     "path": "MySimpleCounterApp",
     "wgtUrl": "MySimpleCounterApp/app.wgt",
     "githubUrl": "https://github.com/Easy-Ai-Project/TizenAppStoreREPO/tree/main/MySimpleCounterApp"
-  },
-  {
-    "id": "anotherapp",
-    "name": "Another App",
-    "description": "Une autre app",
-    "author": "Alexis",
-    "icon": "AnotherApp/icon.png",
-    "path": "AnotherApp",
-    "wgtUrl": "AnotherApp/app.wgt",
-    "githubUrl": "https://github.com/TON_USER/tizen-altstore-repo/tree/main/AnotherApp"
   }
 ]
